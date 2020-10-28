@@ -1,0 +1,9 @@
+코드 참고
+https://m.blog.naver.com/PostView.nhn?blogId=sisosw&logNo=221466848808&proxyReferer=https:%2F%2Fwww.google.com%2F
+https://kocoafab.cc/tutorial/view/357
+
+사용 : 로드셀 무게 센서 대신, 사료량을 측정 사료 통 천장에 부착하여 사료량이 일정수준이하로 
+내려가면 사료 보충이 필요하다는 안내 메세지 혹은 Toast를 사용자 어플에 띄움.
+
+구현해야할 것(10/29) : 코드를 인터럽트 방식으로 구현해야함. 라즈베리파이 설정 이후, 
+코드 수정
